@@ -1,2 +1,2 @@
 
-Aquí tampoco sé JS
+Aquí tampoco sé JS No hay manera
