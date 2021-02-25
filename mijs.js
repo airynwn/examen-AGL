@@ -1,0 +1,1 @@
+//No sé nada de JavaScript
